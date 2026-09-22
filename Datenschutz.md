@@ -6,7 +6,7 @@ UFO Found Footage erstellt inszenierte UFO-Filmaufnahmen. Die folgenden Hinweise
 
 Kamerabilder, räumliche AR-Daten und optional aufgenommener Mikrofonton werden auf deinem Gerät verarbeitet. Die App betreibt keinen eigenen Server und übermittelt diese Inhalte nicht an den Entwickler. Sie enthält keine Werbung, Analyse-SDKs oder Tracking-Funktionen und benötigt kein Benutzerkonto.
 
-Die lokale Clip-Bibliothek speichert Filme sowie Titel, Aufnahmedatum, Dauer, verwendeten Film-Look, gewähltes Objekt und Angaben zu Ton und Fiktionskennzeichnung. Die App merkt sich lokal, ob du die Einführung abgeschlossen hast. iOS-Gerätesicherungen können App-Dokumente einschließen; dies richtet sich nach deinen Systemeinstellungen.
+Die lokale Clip-Bibliothek speichert Filme sowie Titel, Aufnahmedatum, Dauer, verwendeten Film-Look, gewähltes Objekt und Angaben zu Ton und Fiktionskennzeichnung. Die App merkt sich lokal deine Mikrofonwahl und ob du die Einführung abgeschlossen hast. iOS-Gerätesicherungen können App-Dokumente einschließen; dies richtet sich nach deinen Systemeinstellungen.
 
 ## Berechtigungen
 
